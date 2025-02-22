@@ -10,3 +10,15 @@ The following indicators have been calculated in the project:
 - Effect of income on purchases
 - Effect of income on Spending Score
 - Effect of age on Spending Score
+
+
+
+
+
+
+
+
+
+Data source:
+https://www.kaggle.com/datasets/datascientistanna/customers-dataset?select=Customers.csv
+Thanks to the author
